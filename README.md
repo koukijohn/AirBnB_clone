@@ -1,6 +1,6 @@
 This is my Airbnb Clone.
 ============================================================
-This will have many parts of the whole AirBnb website like:
-     - The console.
-     - The HTML
-     - The CSS
+This repository contains many parts of a clone of the AirBnB website:
+     * The console.
+     * HTML
+     * CSS
