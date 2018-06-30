@@ -60,6 +60,7 @@
     display: none;
     position: relative;
     padding: 20px 50px 50px 0px;
+    z-index: 1;
 }
 
 .popover h2 {
